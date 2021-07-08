@@ -1,0 +1,10 @@
+Dao\MensagemDao.class
+Model\Mensagem.class
+Control\AdminControl.class
+Control\MensagemControl.class
+Model\Usuario.class
+Control\UsuarioControl.class
+Dao\AdminDao.class
+Dao\UsuarioDao.class
+Model\Admin.class
+Model\Pessoa.class
